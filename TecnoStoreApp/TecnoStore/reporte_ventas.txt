@@ -1,0 +1,27 @@
+REPORTE DE VENTAS - TECNOSTORE
+
+Venta:    1
+Cliente:  Santiago
+Empleado: Carlos Perez
+Fecha:    2026-10-14T11:39:43
+Total:    $4165000,00
+  - Samsung Galaxy S24 x1 $3500000,00
+
+Venta:    2
+Cliente:  Julian
+Empleado: Carlos Perez
+Fecha:    2026-10-15T11:22:12
+Total:    $62475000,00
+  - Samsung Galaxy S24 x5 $17500000,00
+  - Samsung Galaxy S24 x5 $17500000,00
+  - Samsung Galaxy S24 x5 $17500000,00
+
+Venta:    3
+Cliente:  Julian
+Empleado: Carlos Perez
+Fecha:    2026-10-15T11:23:59
+Total:    $33320000,00
+  - Samsung Galaxy S24 x4 $14000000,00
+  - Samsung Galaxy S24 x4 $14000000,00
+
+Total ventas: 3
